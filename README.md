@@ -2,6 +2,8 @@
 
 [[中文](./mds/chinese.md)]
 
+![example](./mds/example.png)
+
 ## Install
 
 ```
@@ -44,3 +46,6 @@ module: {
 
 - `cb`<Function>: callback in case you want to do sth else. The param is `the absolute path` of choiced component file.
 
+## Example
+
+`npm i && npm run dev`

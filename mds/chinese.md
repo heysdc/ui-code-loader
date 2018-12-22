@@ -2,6 +2,8 @@
 
 \[[English](../README.md)\]
 
+![example](./example.png)
+
 ## 安装
 
 ```
@@ -43,3 +45,7 @@ module: {
 - `isSendReqest`<Boolean>: 是否发送请求打开编辑器，默认True
 
 - `cb`<Function>: 回调函数，参数为选中模块的绝对路径
+
+## 🌰
+
+`npm i && npm run dev`
